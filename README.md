@@ -1,3 +1,7 @@
+<p align="center">
+    <h1>I am currently looking for an apprenticeship in Toulouse 🌹</h1>
+</p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Blagnac IUT
