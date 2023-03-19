@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>I am currently looking for an apprenticeship in Toulouse 🌹</h1>
+    <h1>I am currently looking for an apprenticeship in Toulouse 🌹 </h1>
 </p>
 
 ### Hi there 👋
@@ -25,3 +25,9 @@
 
 | <a href="https://github.com/enzofrnt/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enzofrnt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true#gh-dark-mode-only" alt="Enzo Fournet github stats" /></a> | <a href="https://github.com/enzofrnt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofrnt&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
+
+<div class="canva" id="CV" style="padding-top: 10px; text-align: center; width: 600px; height: 840px; box-shadow: 0 2px 8px 0 rgb(0, 0, 0);  border-radius: 8px; margin: 10px;">
+    <iframe style="width: 580px; height: 820px; border: none;" class="canva_iframe" src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbPId7pso&#x2F;view?embed"></iframe>
+</div>
