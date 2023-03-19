@@ -28,6 +28,5 @@
 
 ---
 
-<div class="canva" id="CV" style="padding-top: 10px; text-align: center; width: 600px; height: 840px; box-shadow: 0 2px 8px 0 rgb(0, 0, 0);  border-radius: 8px; margin: 10px;">
-    <iframe style="width: 580px; height: 820px; border: none;" class="canva_iframe" src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbPId7pso&#x2F;view?embed"></iframe>
-</div>
+### My CV
+![Mon CV](./img/ENZO%20Fournet%20V7.png)
