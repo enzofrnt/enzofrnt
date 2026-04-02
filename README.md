@@ -1,7 +1,3 @@
-<p align="center">
-    <h1>I am currently looking for an apprenticeship in Toulouse 🌹 </h1>
-</p>
-
 ### Hi there 👋
 
 - 🔭 Computer engineering student in Toulouse
@@ -20,8 +16,5 @@
 </p>
 
 ---
-
-| <a href="https://github.com/enzofrnt/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enzofrnt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true#gh-dark-mode-only" alt="Enzo Fournet github stats" /></a> | <a href="https://github.com/enzofrnt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofrnt&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ---
