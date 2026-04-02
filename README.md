@@ -5,6 +5,10 @@
 - 🌐 My selfhosted website : https://enzo-frnt.fr 
 
 ---
+
+![](https://raw.githubusercontent.com/enzofrnt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/enzofrnt/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <p align="center">
 <img height="50" alt="html" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img height="50" alt="css" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
